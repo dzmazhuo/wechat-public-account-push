@@ -29,7 +29,7 @@ const USER_CONFIG = {
       "love_day":"605",
       "marry_day":"605",
       "openUrl":"https://shuangxunian.github.io/",
-      "festivals":{
+      "festivals":[
         {
           "type":"节日",
           "name":"星期天",
@@ -44,7 +44,7 @@ const USER_CONFIG = {
         }
       ]
     }
-},
+],
   "SWITCH":{
     "weather":true,
     "holidaytts":true,
