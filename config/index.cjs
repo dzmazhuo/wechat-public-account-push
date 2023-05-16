@@ -27,7 +27,7 @@ const USER_CONFIG = {
       "horoscopeDate":"03-14",
       "horoscopeDateType":"今日",
       "love_day":"605",
-      "marry_day":"605"
+      "marry_day":"605",
       "openUrl":"https://shuangxunian.github.io/",
       "festivals":{
         {
