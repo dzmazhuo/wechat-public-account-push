@@ -20,14 +20,16 @@ const USER_CONFIG = {
   "USERS":[
     {
       "name":"小叶",
-      "id":"ov-Ve5t-9tP70IjLrx5Qx0W4Ow4k",
-      "useTemplateId":"HAdGx8HX2iNrdEnektaw3AmIwNz0s1fwQe13yUXRLUM",
+      "id":["ov-Ve5t-9tP70IjLrx5Qx0W4Ow4k","ov-Ve5hR1MRCojwF5oqYmSg1tp8M"],
+      "useTemplateId":"	iI7oA526EVOQU546oF66u_xs6yA7CvsxS2czjLBNVLM",
       "province":"河南省",
       "city":"南阳市",
       "horoscopeDate":"03-14",
       "horoscopeDateType":"今日",
+      "love_day":"605",
+      "marry_day":"605"
       "openUrl":"https://shuangxunian.github.io/",
-      "festivals":[
+      "festivals":{
         {
           "type":"节日",
           "name":"星期天",
@@ -42,7 +44,7 @@ const USER_CONFIG = {
         }
       ]
     }
-  ],
+},
   "SWITCH":{
     "weather":true,
     "holidaytts":true,
